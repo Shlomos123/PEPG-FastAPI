@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "items": ["Apple"]
+    },
+    {
+        "id": 1,
+        "items": ["Banana", "Grapes", "Apple"] 
+    },
+    {
+        "id": 2,
+        "items": ["Grapes", "Apple"] 
+    },
+    {
+      "id": 2,
+      "items": ["Pineapple", "Banana", "Grapes", "Apple"]  
+  }
+]

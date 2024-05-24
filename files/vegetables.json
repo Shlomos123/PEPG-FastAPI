@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "items": ["Cueumber"]
+    },
+    {
+        "id": 1,
+        "items": ["Cueumber", "Avocado", "Carrot"] 
+    },
+    {
+        "id": 2,
+        "items": ["Cueumber", "Tomato"] 
+    },
+    {
+      "id": 2,
+      "items": ["Cueumber", "Avocado", "Carrot", "Tomato"]   
+  }
+]
