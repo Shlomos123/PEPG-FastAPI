@@ -1,18 +1,891 @@
 [
     {
         "id": 0,
-        "items": ["Apple"]
+        "items": [
+            "Apple"
+        ]
     },
     {
         "id": 1,
-        "items": ["Banana", "Grapes", "Apple"] 
+        "items": [
+            "Banana",
+            "Grapes",
+            "Apple"
+        ]
     },
     {
         "id": 2,
-        "items": ["Grapes", "Apple"] 
+        "items": [
+            "Grapes",
+            "Apple"
+        ]
     },
     {
-      "id": 2,
-      "items": ["Pineapple", "Banana", "Grapes", "Apple"]  
-  }
+        "id": 3,
+        "items": [
+            "Pineapple",
+            "Banana",
+            "Grapes",
+            "Apple"
+        ]
+    },
+    {
+        "id": 4,
+        "items": [
+            "Pineapple",
+            "Grapes",
+            "Apple",
+            "Peach",
+            "Banana",
+            "Orange"
+        ]
+    },
+    {
+        "id": 5,
+        "items": [
+            "Peach"
+        ]
+    },
+    {
+        "id": 6,
+        "items": [
+            "Banana",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 7,
+        "items": [
+            "Grapes"
+        ]
+    },
+    {
+        "id": 8,
+        "items": [
+            "Peach",
+            "Mango",
+            "Apple",
+            "Grapes",
+            "Pineapple",
+            "Banana"
+        ]
+    },
+    {
+        "id": 9,
+        "items": [
+            "Banana",
+            "Mango",
+            "Apple",
+            "Peach"
+        ]
+    },
+    {
+        "id": 10,
+        "items": [
+            "Orange",
+            "Apple",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 11,
+        "items": [
+            "Banana",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 12,
+        "items": [
+            "Pineapple",
+            "Apple",
+            "Orange"
+        ]
+    },
+    {
+        "id": 13,
+        "items": [
+            "Banana",
+            "Apple",
+            "Grapes",
+            "Pineapple",
+            "Mango",
+            "Orange"
+        ]
+    },
+    {
+        "id": 14,
+        "items": [
+            "Pineapple",
+            "Apple"
+        ]
+    },
+    {
+        "id": 15,
+        "items": [
+            "Orange",
+            "Apple"
+        ]
+    },
+    {
+        "id": 16,
+        "items": [
+            "Grapes",
+            "Pineapple",
+            "Mango",
+            "Orange",
+            "Peach"
+        ]
+    },
+    {
+        "id": 17,
+        "items": [
+            "Peach"
+        ]
+    },
+    {
+        "id": 18,
+        "items": [
+            "Peach",
+            "Orange"
+        ]
+    },
+    {
+        "id": 19,
+        "items": [
+            "Peach",
+            "Banana",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 20,
+        "items": [
+            "Pineapple",
+            "Orange",
+            "Mango",
+            "Peach",
+            "Apple"
+        ]
+    },
+    {
+        "id": 21,
+        "items": [
+            "Mango",
+            "Banana",
+            "Pineapple",
+            "Apple",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 22,
+        "items": [
+            "Peach",
+            "Grapes",
+            "Banana",
+            "Apple",
+            "Orange",
+            "Mango",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 23,
+        "items": [
+            "Peach",
+            "Apple",
+            "Grapes",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 24,
+        "items": [
+            "Banana"
+        ]
+    },
+    {
+        "id": 25,
+        "items": [
+            "Pineapple",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 26,
+        "items": [
+            "Pineapple",
+            "Grapes",
+            "Peach",
+            "Banana",
+            "Apple",
+            "Mango"
+        ]
+    },
+    {
+        "id": 27,
+        "items": [
+            "Mango"
+        ]
+    },
+    {
+        "id": 28,
+        "items": [
+            "Mango",
+            "Grapes",
+            "Banana",
+            "Apple",
+            "Peach"
+        ]
+    },
+    {
+        "id": 29,
+        "items": [
+            "Peach",
+            "Orange"
+        ]
+    },
+    {
+        "id": 30,
+        "items": [
+            "Mango"
+        ]
+    },
+    {
+        "id": 31,
+        "items": [
+            "Orange",
+            "Mango",
+            "Apple"
+        ]
+    },
+    {
+        "id": 32,
+        "items": [
+            "Apple",
+            "Orange",
+            "Banana",
+            "Pineapple",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 33,
+        "items": [
+            "Pineapple",
+            "Banana",
+            "Peach"
+        ]
+    },
+    {
+        "id": 34,
+        "items": [
+            "Peach",
+            "Pineapple",
+            "Banana",
+            "Grapes",
+            "Mango",
+            "Apple"
+        ]
+    },
+    {
+        "id": 35,
+        "items": [
+            "Banana",
+            "Peach",
+            "Mango",
+            "Orange",
+            "Pineapple",
+            "Apple",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 36,
+        "items": [
+            "Apple",
+            "Peach",
+            "Mango",
+            "Pineapple",
+            "Orange"
+        ]
+    },
+    {
+        "id": 37,
+        "items": [
+            "Grapes",
+            "Peach",
+            "Apple",
+            "Pineapple",
+            "Orange",
+            "Banana",
+            "Mango"
+        ]
+    },
+    {
+        "id": 38,
+        "items": [
+            "Grapes",
+            "Peach",
+            "Pineapple",
+            "Orange",
+            "Banana",
+            "Mango",
+            "Apple"
+        ]
+    },
+    {
+        "id": 39,
+        "items": [
+            "Peach",
+            "Mango"
+        ]
+    },
+    {
+        "id": 40,
+        "items": [
+            "Mango",
+            "Banana",
+            "Apple",
+            "Grapes",
+            "Orange",
+            "Peach",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 41,
+        "items": [
+            "Orange",
+            "Peach",
+            "Pineapple",
+            "Banana",
+            "Mango"
+        ]
+    },
+    {
+        "id": 42,
+        "items": [
+            "Orange",
+            "Peach",
+            "Banana"
+        ]
+    },
+    {
+        "id": 43,
+        "items": [
+            "Mango",
+            "Apple",
+            "Banana",
+            "Peach",
+            "Grapes",
+            "Orange",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 44,
+        "items": [
+            "Banana",
+            "Peach"
+        ]
+    },
+    {
+        "id": 45,
+        "items": [
+            "Apple",
+            "Grapes",
+            "Pineapple",
+            "Peach",
+            "Banana",
+            "Orange",
+            "Mango"
+        ]
+    },
+    {
+        "id": 46,
+        "items": [
+            "Banana",
+            "Peach",
+            "Mango"
+        ]
+    },
+    {
+        "id": 47,
+        "items": [
+            "Orange",
+            "Apple",
+            "Mango",
+            "Peach",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 48,
+        "items": [
+            "Grapes",
+            "Apple"
+        ]
+    },
+    {
+        "id": 49,
+        "items": [
+            "Banana",
+            "Apple",
+            "Peach",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 50,
+        "items": [
+            "Mango",
+            "Peach",
+            "Grapes",
+            "Orange",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 51,
+        "items": [
+            "Peach",
+            "Apple",
+            "Mango",
+            "Banana",
+            "Pineapple",
+            "Orange",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 52,
+        "items": [
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 53,
+        "items": [
+            "Peach",
+            "Apple",
+            "Orange"
+        ]
+    },
+    {
+        "id": 54,
+        "items": [
+            "Peach"
+        ]
+    },
+    {
+        "id": 55,
+        "items": [
+            "Apple",
+            "Peach",
+            "Mango",
+            "Orange",
+            "Grapes",
+            "Banana"
+        ]
+    },
+    {
+        "id": 56,
+        "items": [
+            "Grapes",
+            "Banana",
+            "Apple",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 57,
+        "items": [
+            "Banana"
+        ]
+    },
+    {
+        "id": 58,
+        "items": [
+            "Apple",
+            "Orange"
+        ]
+    },
+    {
+        "id": 59,
+        "items": [
+            "Pineapple",
+            "Apple",
+            "Banana",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 60,
+        "items": [
+            "Grapes",
+            "Banana",
+            "Pineapple",
+            "Peach",
+            "Mango"
+        ]
+    },
+    {
+        "id": 61,
+        "items": [
+            "Pineapple",
+            "Apple",
+            "Peach",
+            "Grapes",
+            "Orange",
+            "Mango"
+        ]
+    },
+    {
+        "id": 62,
+        "items": [
+            "Grapes",
+            "Banana",
+            "Peach"
+        ]
+    },
+    {
+        "id": 63,
+        "items": [
+            "Mango"
+        ]
+    },
+    {
+        "id": 64,
+        "items": [
+            "Banana"
+        ]
+    },
+    {
+        "id": 65,
+        "items": [
+            "Apple",
+            "Pineapple",
+            "Grapes",
+            "Mango"
+        ]
+    },
+    {
+        "id": 66,
+        "items": [
+            "Peach",
+            "Grapes",
+            "Pineapple",
+            "Mango",
+            "Orange",
+            "Apple"
+        ]
+    },
+    {
+        "id": 67,
+        "items": [
+            "Orange",
+            "Grapes",
+            "Banana",
+            "Peach",
+            "Apple"
+        ]
+    },
+    {
+        "id": 68,
+        "items": [
+            "Grapes",
+            "Banana",
+            "Apple",
+            "Pineapple",
+            "Mango"
+        ]
+    },
+    {
+        "id": 69,
+        "items": [
+            "Banana",
+            "Mango",
+            "Apple",
+            "Orange",
+            "Peach",
+            "Grapes",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 70,
+        "items": [
+            "Banana",
+            "Mango",
+            "Pineapple",
+            "Orange",
+            "Peach",
+            "Apple",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 71,
+        "items": [
+            "Orange",
+            "Peach",
+            "Mango",
+            "Grapes",
+            "Pineapple",
+            "Banana",
+            "Apple"
+        ]
+    },
+    {
+        "id": 72,
+        "items": [
+            "Grapes",
+            "Orange",
+            "Apple",
+            "Banana",
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 73,
+        "items": [
+            "Pineapple",
+            "Apple",
+            "Banana",
+            "Grapes",
+            "Mango",
+            "Orange"
+        ]
+    },
+    {
+        "id": 74,
+        "items": [
+            "Peach",
+            "Grapes",
+            "Pineapple",
+            "Banana"
+        ]
+    },
+    {
+        "id": 75,
+        "items": [
+            "Orange",
+            "Banana",
+            "Mango",
+            "Grapes",
+            "Apple",
+            "Pineapple",
+            "Peach"
+        ]
+    },
+    {
+        "id": 76,
+        "items": [
+            "Pineapple"
+        ]
+    },
+    {
+        "id": 77,
+        "items": [
+            "Apple",
+            "Grapes",
+            "Pineapple",
+            "Mango",
+            "Peach"
+        ]
+    },
+    {
+        "id": 78,
+        "items": [
+            "Mango",
+            "Banana",
+            "Orange",
+            "Grapes",
+            "Pineapple",
+            "Apple",
+            "Peach"
+        ]
+    },
+    {
+        "id": 79,
+        "items": [
+            "Grapes",
+            "Orange"
+        ]
+    },
+    {
+        "id": 80,
+        "items": [
+            "Orange",
+            "Pineapple",
+            "Banana",
+            "Grapes",
+            "Peach"
+        ]
+    },
+    {
+        "id": 81,
+        "items": [
+            "Peach"
+        ]
+    },
+    {
+        "id": 82,
+        "items": [
+            "Orange",
+            "Peach"
+        ]
+    },
+    {
+        "id": 83,
+        "items": [
+            "Pineapple",
+            "Apple",
+            "Banana",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 84,
+        "items": [
+            "Orange",
+            "Banana",
+            "Pineapple",
+            "Grapes",
+            "Mango"
+        ]
+    },
+    {
+        "id": 85,
+        "items": [
+            "Grapes"
+        ]
+    },
+    {
+        "id": 86,
+        "items": [
+            "Pineapple",
+            "Apple"
+        ]
+    },
+    {
+        "id": 87,
+        "items": [
+            "Grapes",
+            "Pineapple",
+            "Mango",
+            "Orange"
+        ]
+    },
+    {
+        "id": 88,
+        "items": [
+            "Grapes",
+            "Apple",
+            "Peach",
+            "Pineapple",
+            "Banana",
+            "Orange",
+            "Mango"
+        ]
+    },
+    {
+        "id": 89,
+        "items": [
+            "Apple",
+            "Orange",
+            "Banana"
+        ]
+    },
+    {
+        "id": 90,
+        "items": [
+            "Orange",
+            "Pineapple",
+            "Peach",
+            "Mango"
+        ]
+    },
+    {
+        "id": 91,
+        "items": [
+            "Pineapple",
+            "Mango",
+            "Banana",
+            "Apple",
+            "Orange",
+            "Grapes"
+        ]
+    },
+    {
+        "id": 92,
+        "items": [
+            "Banana"
+        ]
+    },
+    {
+        "id": 93,
+        "items": [
+            "Apple",
+            "Banana",
+            "Pineapple",
+            "Grapes",
+            "Peach"
+        ]
+    },
+    {
+        "id": 94,
+        "items": [
+            "Banana",
+            "Orange",
+            "Peach"
+        ]
+    },
+    {
+        "id": 95,
+        "items": [
+            "Grapes",
+            "Apple",
+            "Banana"
+        ]
+    },
+    {
+        "id": 96,
+        "items": [
+            "Grapes",
+            "Banana",
+            "Apple",
+            "Peach",
+            "Pineapple",
+            "Orange",
+            "Mango"
+        ]
+    },
+    {
+        "id": 97,
+        "items": [
+            "Pineapple",
+            "Mango",
+            "Orange",
+            "Apple",
+            "Grapes",
+            "Banana"
+        ]
+    },
+    {
+        "id": 98,
+        "items": [
+            "Peach"
+        ]
+    },
+    {
+        "id": 99,
+        "items": [
+            "Mango",
+            "Peach",
+            "Apple"
+        ]
+    }
 ]

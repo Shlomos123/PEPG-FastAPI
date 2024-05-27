@@ -1,18 +1,900 @@
 [
     {
         "id": 0,
-        "items": ["Cueumber"]
+        "items": [
+            "Cueumber"
+        ]
     },
     {
         "id": 1,
-        "items": ["Cueumber", "Avocado", "Carrot"] 
+        "items": [
+            "Cueumber",
+            "Avocado",
+            "Carrot"
+        ]
     },
     {
         "id": 2,
-        "items": ["Cueumber", "Tomato"] 
+        "items": [
+            "Cueumber",
+            "Tomato"
+        ]
     },
     {
-      "id": 2,
-      "items": ["Cueumber", "Avocado", "Carrot", "Tomato"]   
-  }
+        "id": 3,
+        "items": [
+            "Cueumber",
+            "Avocado",
+            "Carrot",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 4,
+        "items": [
+            "Pepper",
+            "Onion",
+            "Lettuce",
+            "Avocado"
+        ]
+    },
+    {
+        "id": 5,
+        "items": [
+            "Pepper",
+            "Tomato",
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 6,
+        "items": [
+            "Avocado",
+            "Tomato",
+            "Pepper",
+            "Cueumber",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 7,
+        "items": [
+            "Lettuce",
+            "Pepper",
+            "Onion"
+        ]
+    },
+    {
+        "id": 8,
+        "items": [
+            "Pepper",
+            "Tomato",
+            "Carrot",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 9,
+        "items": [
+            "Tomato",
+            "Carrot",
+            "Lettuce",
+            "Avocado",
+            "Cueumber",
+            "Onion",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 10,
+        "items": [
+            "Lettuce",
+            "Tomato",
+            "Avocado",
+            "Onion",
+            "Cueumber",
+            "Carrot",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 11,
+        "items": [
+            "Onion",
+            "Carrot",
+            "Avocado"
+        ]
+    },
+    {
+        "id": 12,
+        "items": [
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 13,
+        "items": [
+            "Onion",
+            "Carrot",
+            "Pepper",
+            "Avocado",
+            "Lettuce",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 14,
+        "items": [
+            "Pepper"
+        ]
+    },
+    {
+        "id": 15,
+        "items": [
+            "Lettuce",
+            "Pepper",
+            "Onion",
+            "Avocado",
+            "Cueumber",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 16,
+        "items": [
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 17,
+        "items": [
+            "Carrot",
+            "Avocado",
+            "Lettuce",
+            "Tomato",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 18,
+        "items": [
+            "Lettuce",
+            "Avocado",
+            "Tomato",
+            "Cueumber",
+            "Onion"
+        ]
+    },
+    {
+        "id": 19,
+        "items": [
+            "Onion",
+            "Carrot",
+            "Cueumber",
+            "Lettuce",
+            "Avocado",
+            "Pepper",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 20,
+        "items": [
+            "Pepper",
+            "Carrot",
+            "Cueumber",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 21,
+        "items": [
+            "Tomato",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 22,
+        "items": [
+            "Lettuce",
+            "Cueumber",
+            "Pepper",
+            "Carrot",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 23,
+        "items": [
+            "Pepper"
+        ]
+    },
+    {
+        "id": 24,
+        "items": [
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 25,
+        "items": [
+            "Lettuce",
+            "Onion",
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 26,
+        "items": [
+            "Avocado"
+        ]
+    },
+    {
+        "id": 27,
+        "items": [
+            "Pepper",
+            "Cueumber",
+            "Avocado"
+        ]
+    },
+    {
+        "id": 28,
+        "items": [
+            "Avocado",
+            "Lettuce",
+            "Pepper",
+            "Tomato",
+            "Onion",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 29,
+        "items": [
+            "Lettuce",
+            "Pepper",
+            "Tomato",
+            "Onion"
+        ]
+    },
+    {
+        "id": 30,
+        "items": [
+            "Cueumber",
+            "Pepper",
+            "Carrot",
+            "Avocado",
+            "Onion"
+        ]
+    },
+    {
+        "id": 31,
+        "items": [
+            "Lettuce",
+            "Tomato",
+            "Carrot",
+            "Pepper",
+            "Onion"
+        ]
+    },
+    {
+        "id": 32,
+        "items": [
+            "Lettuce",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 33,
+        "items": [
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 34,
+        "items": [
+            "Avocado"
+        ]
+    },
+    {
+        "id": 35,
+        "items": [
+            "Cueumber",
+            "Tomato",
+            "Avocado",
+            "Onion"
+        ]
+    },
+    {
+        "id": 36,
+        "items": [
+            "Carrot",
+            "Avocado",
+            "Onion",
+            "Tomato",
+            "Cueumber",
+            "Lettuce",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 37,
+        "items": [
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 38,
+        "items": [
+            "Pepper",
+            "Onion",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 39,
+        "items": [
+            "Lettuce",
+            "Carrot",
+            "Pepper",
+            "Cueumber",
+            "Avocado",
+            "Onion"
+        ]
+    },
+    {
+        "id": 40,
+        "items": [
+            "Pepper",
+            "Cueumber",
+            "Carrot",
+            "Tomato",
+            "Onion"
+        ]
+    },
+    {
+        "id": 41,
+        "items": [
+            "Tomato",
+            "Avocado",
+            "Onion"
+        ]
+    },
+    {
+        "id": 42,
+        "items": [
+            "Carrot",
+            "Onion",
+            "Pepper",
+            "Cueumber",
+            "Lettuce",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 43,
+        "items": [
+            "Tomato",
+            "Onion",
+            "Avocado",
+            "Pepper",
+            "Carrot",
+            "Lettuce",
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 44,
+        "items": [
+            "Carrot",
+            "Tomato",
+            "Avocado"
+        ]
+    },
+    {
+        "id": 45,
+        "items": [
+            "Lettuce",
+            "Pepper",
+            "Onion",
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 46,
+        "items": [
+            "Onion",
+            "Carrot",
+            "Lettuce",
+            "Pepper",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 47,
+        "items": [
+            "Tomato",
+            "Pepper",
+            "Avocado",
+            "Carrot",
+            "Lettuce",
+            "Cueumber",
+            "Onion"
+        ]
+    },
+    {
+        "id": 48,
+        "items": [
+            "Tomato",
+            "Carrot",
+            "Lettuce",
+            "Cueumber",
+            "Onion"
+        ]
+    },
+    {
+        "id": 49,
+        "items": [
+            "Cueumber",
+            "Lettuce",
+            "Tomato",
+            "Onion",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 50,
+        "items": [
+            "Carrot"
+        ]
+    },
+    {
+        "id": 51,
+        "items": [
+            "Avocado",
+            "Onion",
+            "Carrot",
+            "Lettuce",
+            "Cueumber",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 52,
+        "items": [
+            "Avocado",
+            "Carrot",
+            "Onion",
+            "Lettuce",
+            "Tomato",
+            "Cueumber",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 53,
+        "items": [
+            "Lettuce",
+            "Pepper",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 54,
+        "items": [
+            "Tomato",
+            "Avocado",
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 55,
+        "items": [
+            "Tomato",
+            "Avocado",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 56,
+        "items": [
+            "Cueumber",
+            "Pepper",
+            "Tomato",
+            "Carrot",
+            "Avocado",
+            "Lettuce",
+            "Onion"
+        ]
+    },
+    {
+        "id": 57,
+        "items": [
+            "Tomato",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 58,
+        "items": [
+            "Lettuce",
+            "Carrot",
+            "Pepper",
+            "Avocado",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 59,
+        "items": [
+            "Avocado",
+            "Onion",
+            "Cueumber",
+            "Tomato",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 60,
+        "items": [
+            "Onion",
+            "Avocado",
+            "Carrot",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 61,
+        "items": [
+            "Pepper",
+            "Avocado",
+            "Cueumber",
+            "Carrot",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 62,
+        "items": [
+            "Lettuce",
+            "Pepper",
+            "Onion",
+            "Cueumber",
+            "Carrot",
+            "Avocado",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 63,
+        "items": [
+            "Onion",
+            "Avocado",
+            "Pepper",
+            "Cueumber",
+            "Tomato",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 64,
+        "items": [
+            "Tomato",
+            "Cueumber",
+            "Onion",
+            "Lettuce",
+            "Pepper",
+            "Avocado"
+        ]
+    },
+    {
+        "id": 65,
+        "items": [
+            "Onion",
+            "Pepper",
+            "Lettuce",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 66,
+        "items": [
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 67,
+        "items": [
+            "Avocado",
+            "Lettuce",
+            "Cueumber",
+            "Carrot",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 68,
+        "items": [
+            "Tomato",
+            "Carrot",
+            "Onion",
+            "Lettuce",
+            "Avocado",
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 69,
+        "items": [
+            "Pepper",
+            "Tomato",
+            "Carrot",
+            "Cueumber",
+            "Onion"
+        ]
+    },
+    {
+        "id": 70,
+        "items": [
+            "Carrot",
+            "Tomato",
+            "Avocado",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 71,
+        "items": [
+            "Avocado",
+            "Tomato",
+            "Lettuce",
+            "Carrot",
+            "Pepper",
+            "Onion"
+        ]
+    },
+    {
+        "id": 72,
+        "items": [
+            "Lettuce",
+            "Pepper",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 73,
+        "items": [
+            "Pepper",
+            "Cueumber",
+            "Carrot",
+            "Avocado",
+            "Onion"
+        ]
+    },
+    {
+        "id": 74,
+        "items": [
+            "Carrot",
+            "Lettuce",
+            "Avocado",
+            "Cueumber",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 75,
+        "items": [
+            "Avocado",
+            "Cueumber",
+            "Lettuce",
+            "Carrot",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 76,
+        "items": [
+            "Onion",
+            "Tomato",
+            "Cueumber",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 77,
+        "items": [
+            "Avocado",
+            "Onion",
+            "Lettuce",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 78,
+        "items": [
+            "Avocado",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 79,
+        "items": [
+            "Avocado",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 80,
+        "items": [
+            "Avocado",
+            "Pepper",
+            "Onion",
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 81,
+        "items": [
+            "Pepper"
+        ]
+    },
+    {
+        "id": 82,
+        "items": [
+            "Tomato",
+            "Lettuce",
+            "Avocado",
+            "Carrot",
+            "Onion",
+            "Cueumber",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 83,
+        "items": [
+            "Tomato",
+            "Lettuce",
+            "Avocado",
+            "Cueumber",
+            "Carrot",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 84,
+        "items": [
+            "Pepper",
+            "Avocado",
+            "Onion"
+        ]
+    },
+    {
+        "id": 85,
+        "items": [
+            "Pepper",
+            "Cueumber",
+            "Lettuce",
+            "Avocado",
+            "Carrot",
+            "Tomato",
+            "Onion"
+        ]
+    },
+    {
+        "id": 86,
+        "items": [
+            "Lettuce",
+            "Carrot",
+            "Pepper",
+            "Tomato",
+            "Avocado",
+            "Cueumber",
+            "Onion"
+        ]
+    },
+    {
+        "id": 87,
+        "items": [
+            "Lettuce",
+            "Avocado",
+            "Tomato",
+            "Cueumber",
+            "Onion",
+            "Carrot",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 88,
+        "items": [
+            "Avocado"
+        ]
+    },
+    {
+        "id": 89,
+        "items": [
+            "Avocado",
+            "Cueumber",
+            "Lettuce"
+        ]
+    },
+    {
+        "id": 90,
+        "items": [
+            "Avocado",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 91,
+        "items": [
+            "Carrot",
+            "Lettuce",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 92,
+        "items": [
+            "Onion",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 93,
+        "items": [
+            "Pepper"
+        ]
+    },
+    {
+        "id": 94,
+        "items": [
+            "Carrot",
+            "Cueumber",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 95,
+        "items": [
+            "Pepper",
+            "Cueumber",
+            "Onion",
+            "Lettuce",
+            "Avocado",
+            "Tomato",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 96,
+        "items": [
+            "Tomato",
+            "Cueumber",
+            "Lettuce",
+            "Avocado",
+            "Onion"
+        ]
+    },
+    {
+        "id": 97,
+        "items": [
+            "Cueumber"
+        ]
+    },
+    {
+        "id": 98,
+        "items": [
+            "Tomato",
+            "Carrot"
+        ]
+    },
+    {
+        "id": 99,
+        "items": [
+            "Pepper",
+            "Onion"
+        ]
+    }
 ]
