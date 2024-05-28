@@ -1,9 +1,9 @@
 fastapi
 uvicorn
+joblib
 mlxtend
 pandas
 dask_ml
-joblib
 sqlalchemy
 passlib
 bcrypt
