@@ -124,7 +124,7 @@ async def run_apriori_api(value: int = Query(..., description="1 for fruits.json
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get('/')
-async def run_fpgrowth_api(value: int = Query(..., description="1 for fruits.json, 2 for vegetables.json"), support: float = Query(..., description="Minimum support for FP-growth algorithm"), n_jobs: int = Query(-1, description="Number of jobs to run in parallel")):
+async def run_fpgrowth_api(value: int = Query(..., description="1 for fruits.json, 2 for vegetables.json"), support: float = Query(..., description="Minimum support for FP-growth algorithm"), n_jobs: int = Query(4, description="Number of jobs to run in parallel")):
     try:
         # Check the value sent by the user
         if value == 1:
