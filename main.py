@@ -40,32 +40,31 @@ def run_apriori(json_data, min_support):
         raise HTTPException(status_code=500, detail=str(e))
 
 def run_fpgrowth_partition(part, min_support):
-    # Partition data and run FP-Growth algorithm on the partition
-    return fpgrowth(part, min_support=min_support, use_colnames=True)
+    # Run FP-Growth algorithm on the partition
+    frequent_itemsets = fpgrowth(part, min_support=min_support, use_colnames=True)
+    # Calculate frequency for each itemset within the partition
+    frequent_itemsets['freq'] = frequent_itemsets['support'] * len(part)
+    return frequent_itemsets
 
 def run_fpgrowth_parallel(df, min_support, n_jobs):
     try:
-        # Ensure n_jobs is set correctly
         if n_jobs <= 0:
-            n_jobs = 1  # Set to 1 if n_jobs is less than or equal to 0
+            n_jobs = 1
 
-        # Split the data into chunks
         df_splits = np.array_split(df, n_jobs)
-        
-        # Check if the split resulted in valid chunks
         if len(df_splits) == 0 or len(df_splits[0]) == 0:
             raise HTTPException(status_code=500, detail="Invalid data split: resulted in zero sections")
 
-        # Run FP-Growth algorithm in parallel
         results = Parallel(n_jobs=n_jobs)(delayed(run_fpgrowth_partition)(part, min_support) for part in df_splits)
-        
-        # Combine results
-        frequent_itemsets = pd.concat(results).drop_duplicates().reset_index(drop=True)
-        
-        # Calculate frequency for each itemset
-        frequent_itemsets['freq'] = frequent_itemsets['support'] * len(df)
 
-        # Sort by frequency (descending)
+        frequent_itemsets = pd.concat(results).reset_index(drop=True)
+        
+        # Group by itemsets and sum their frequencies
+        frequent_itemsets = frequent_itemsets.groupby('itemsets').agg({'support': 'sum', 'freq': 'sum'}).reset_index()
+        # Recalculate support based on total transactions
+        total_transactions = len(df)
+        frequent_itemsets['support'] = frequent_itemsets['freq'] / total_transactions
+
         frequent_itemsets = frequent_itemsets.sort_values(by='freq', ascending=False)
 
         return frequent_itemsets
